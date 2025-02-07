@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Hover from './Hover'
-import KeyPress from './Keypress'
+import KeyPress from './KeyPress'
 import styles from './styles.module.css';
 
 // prop to pass data into bio of About component
